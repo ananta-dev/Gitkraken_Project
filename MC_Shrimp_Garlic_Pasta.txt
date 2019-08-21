@@ -1,5 +1,7 @@
 Garlic Pasta
 
+Recipe by: Juanjo Guirao
+
 Menu Class: Main Course
 
 Description:
