@@ -1,5 +1,7 @@
 Tiramisu
 
+Author: Olga Saktova
+
 Menu Class: Dessert
 
 Description:
