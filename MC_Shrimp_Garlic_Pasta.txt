@@ -5,7 +5,7 @@ Recipe by: Juanjo Guirao
 Menu Class: Main Course
 
 Description:
-This is simple yet irresistable. You can serve a large portion as a main dish at dinner parties.
+New dessert menu.
 
 Ingredients
 1. 8 ounces spiral pasta
